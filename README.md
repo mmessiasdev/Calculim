@@ -1,16 +1,25 @@
-# app
+# Calculim - Calcule seu IMC
+<img src="https://i.imgur.com/0y7tUl8.png">
 
-A new Flutter project.
+App de Calculo de IMC. Possui uma inteface minimalista, com Widgets dinâmicos e funcionais.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Lista de tarefas
 
-A few resources to get you started if this is your first Flutter project:
+#### 1 - Criar inteface Figma do Sistema. [Link Figma aqui](https://www.figma.com/file/ZgoqBgRygljvFtXWOPWMGk/Untitled?node-id=0%3A1) ✅
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### 2 - Criar Inteface Flutter ✅
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### 3 - Aplicar ações aos botóes ✅
+- ##### Botão Masculino/Feminino
+- ##### Botão Altura
+- ##### Botão Peso
+- ##### Botão Idade
+- ##### Criar Routes de Botões
+- ##### Mapear e Calcular valores à segunda tela
+
+- ## Projeto Figma [Link](https://www.figma.com/file/qPokwnnGkQS5hx5rH4EnSL/Untitled?node-id=0%3A1)
+<img src="https://i.imgur.com/BDuaU8v.png">
+
+- ## App
+<img src="https://i.imgur.com/y6b24IA.png">
