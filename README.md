@@ -1,5 +1,5 @@
 # Calculim - Calcule seu IMC
-<img src="https://i.imgur.com/0y7tUl8.png"><img src="https://i.imgur.com/y6b24IA.png">
+<img src="https://i.imgur.com/0y7tUl8.png"> <img src="https://i.imgur.com/y6b24IA.png">
 
 
 App de Calculo de IMC. Possui uma inteface minimalista, com Widgets dinâmicos e funcionais.
